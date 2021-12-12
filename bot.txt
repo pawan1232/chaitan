@@ -1,0 +1,5 @@
+{
+     "IP":"noobsmpu.aternos.me:33646"
+     "port":"33646"
+     "name":"welcome to server"
+}
